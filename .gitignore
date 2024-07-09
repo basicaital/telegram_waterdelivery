@@ -6,3 +6,4 @@ venv
 config.py
 water_base.db
 water_base.xlsx
+.idea

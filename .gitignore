@@ -1,0 +1,8 @@
+logs/
+static
+templates
+venv
+.env
+config.py
+water_base.db
+water_base.xlsx
